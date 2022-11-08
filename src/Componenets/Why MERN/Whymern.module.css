@@ -1,0 +1,41 @@
+.maindiv2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #004a99;
+    width: 100%;
+    height: 80vh;
+}
+
+.heading1 {
+    color: white;
+    font-size: 40px;
+    padding: 50px 0px;
+}
+
+.containerdiv {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card {
+    width: 25vw;
+    height: 50vh;
+    background-color: #00458f;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+}
+
+.card:hover{
+    background-color: #1a3d64;
+}
+
+.headingofcard {
+    font-size: 28px;
+    padding: 20px 20px 10px 20px;
+}
+
+.deatilsofcard {
+    font-size: 18px;
+    padding: 20px 20px 10px 20px;
+    color: #c8d9f0;
+}

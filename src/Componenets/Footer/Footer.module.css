@@ -1,0 +1,69 @@
+/* *{
+    padding: 0%;
+    margin: 0%;
+} */
+ul li {
+    list-style: none;
+    cursor: pointer;
+    padding-bottom: 20px;
+}
+
+ul li:hover {
+    color: #74B5FC;
+}
+
+.footermain {
+    width: 100%;
+    height: 70vh;
+    background-color:#004a99;
+    color: white;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    text-align: left;
+}
+
+.copyright {
+  margin-top: 80px;
+    color: white;
+    font-size: 20px;
+}
+
+.tekiname1 {
+    font-size: 40px;
+}
+
+.list1 {
+    padding-bottom: 10px;
+}
+
+.footer1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 6vw;
+    top: 10vh;
+}
+
+.footer2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 25vw;
+    top: 10vh;
+}
+
+.footer3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 30vw;
+    top: 10vh;
+}
+
+.secondcolor {
+    width: 100%;
+    height: 30px;
+    background-color: #112f4f;
+    margin-top: 20px;
+}

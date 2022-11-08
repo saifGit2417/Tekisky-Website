@@ -1,0 +1,41 @@
+.navbar1 {
+    z-index: 5;
+    position: fixed;
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 'sans-serif';
+    height: 12vh;
+    width: 100%;
+    background-color: white;
+}
+
+.logo {
+    width: 10vw;
+    position: relative;
+    left: 8vw;
+    margin-top: 2vh;
+    font-size: 45px;
+    color: #444444;
+    background-color: white;
+}
+.contentofnav{
+    background-color: white;
+  }
+.mainlist {
+    display: flex;
+    position: relative;
+    left: 32vw;
+    color: #459bf7;
+    background-color: white;
+    
+}
+
+.sublist {
+    padding: 0px 30px;
+    font-size: 20px;
+    margin-top: 4vh;
+    color: #459bf7;
+    background-color: white;
+}
+.sublist:hover{
+    color: rgb(70, 70, 230);
+}

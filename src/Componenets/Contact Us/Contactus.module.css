@@ -1,0 +1,83 @@
+
+.maincontainer1 {
+    width: 100%;
+    height: 90vh;
+}
+
+.contactus {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 7vh;
+}
+
+.maincontainerofcontact {
+    display: flex;
+    margin-top: 10vh;
+}
+
+.iframe {
+    text-align: left;
+    width: 50%;
+}
+
+.form {
+    width: 50%;
+    text-align: left;
+}
+
+.formhead {
+    font-size: 30px;
+}
+
+.formstart {
+    margin-top: 3vh;
+    text-align: left;
+}
+input:hover{
+    border: 2px solid #007bff;
+}
+input:focus{
+    border: 2px solid #007bff !important;
+}
+textarea:hover{
+    border: 2px solid #007bff;
+}
+
+.input1 {
+    width: 22vw;
+    height: 5vh;
+}
+
+.input2 {
+    width: 22vw;
+    height: 5vh;
+    margin-left: 30px;
+}
+
+.subject {
+    width: 46.4vw;
+    height: 5vh;
+    margin-top: 2vh;
+}
+
+.message {
+    font-size: 15px;
+    width: 46.4vw;
+    height: 15vh;
+    margin-top: 2vh;
+}
+
+.button {
+    font-size: 17px;
+    width: 12vw;
+    height: 5vh;
+    color: white;
+    background-color: #007bff;
+    border-radius: 30px;
+    border: none;
+    margin-top: 3vh;
+}
+
+.button:hover {
+    background-color: #004a99;
+}
