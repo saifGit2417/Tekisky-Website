@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tekisky-Website/static/css/main.d74f8df1.css",
+    "main.js": "/Tekisky-Website/static/js/main.3970f260.js",
+    "static/js/787.856a2c82.chunk.js": "/Tekisky-Website/static/js/787.856a2c82.chunk.js",
+    "static/media/logo.svg": "/Tekisky-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tekisky-Website/index.html",
+    "main.d74f8df1.css.map": "/Tekisky-Website/static/css/main.d74f8df1.css.map",
+    "main.3970f260.js.map": "/Tekisky-Website/static/js/main.3970f260.js.map",
+    "787.856a2c82.chunk.js.map": "/Tekisky-Website/static/js/787.856a2c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d74f8df1.css",
+    "static/js/main.3970f260.js"
+  ]
+}
